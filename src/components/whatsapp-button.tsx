@@ -17,7 +17,7 @@ const WhatsAppIcon = (props: React.SVGProps<SVGSVGElement>) => (
 
 export default function WhatsAppButton() {
   // Replace with actual WhatsApp number
-  const phoneNumber = '1234567890';
+  const phoneNumber = '2348156678708';
   
   return (
     <Button asChild size="icon" className="fixed bottom-6 right-6 h-14 w-14 rounded-full bg-[#25D366] hover:bg-[#1DA851] z-50 shadow-lg">
