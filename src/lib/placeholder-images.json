@@ -1,3 +1,88 @@
 {
-  "placeholderImages": []
+  "placeholderImages": [
+    {
+      "id": "hero",
+      "description": "Elegant fabric pattern",
+      "imageUrl": "https://images.unsplash.com/photo-1706793990327-b6f7170ed333?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxmYWJyaWMlMjBwYXR0ZXJufGVufDB8fHx8MTc3MTIzNTEwMXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "fabric pattern"
+    },
+    {
+      "id": "about",
+      "description": "Artisan hands sewing fabric",
+      "imageUrl": "https://images.unsplash.com/photo-1649675602947-81a41c1ba4af?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxhcnRpc2FuJTIwaGFuZHN8ZW58MHx8fHwxNzcxMjM1MTAxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "artisan hands"
+    },
+    {
+      "id": "adire-1",
+      "description": "Blue and white tie-dye adire fabric",
+      "imageUrl": "https://images.unsplash.com/photo-1618486257759-a323557c1b88?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHx0aWUtZHllJTIwZmFicmljfGVufDB8fHx8MTc3MTIzNTEwMXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "tie-dye fabric"
+    },
+    {
+      "id": "adire-2",
+      "description": "Colorful adire bubu gown",
+      "imageUrl": "https://images.unsplash.com/photo-1708170236295-20ab8fbadcef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxhZnJpY2FuJTIwZmFzaGlvbnxlbnwwfHx8fDE3NzEyMzUxMDF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "african fashion"
+    },
+    {
+      "id": "adire-3",
+      "description": "Folded stack of adire textiles",
+      "imageUrl": "https://images.unsplash.com/photo-1701964620877-5653b8a7280e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHx0ZXh0aWxlJTIwcGF0dGVybnN8ZW58MHx8fHwxNzcxMjM1MTAxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "textile patterns"
+    },
+    {
+      "id": "perfume-1",
+      "description": "Elegant perfume bottle on a wooden surface",
+      "imageUrl": "https://images.unsplash.com/photo-1615160460366-2c9a41771b51?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxwZXJmdW1lJTIwYm90dGxlfGVufDB8fHx8MTc3MTE1MTQ2OXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "perfume bottle"
+    },
+    {
+      "id": "perfume-2",
+      "description": "Unisex body spray bottle",
+      "imageUrl": "https://images.unsplash.com/photo-1725446894465-67dc3f87e741?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8ZnJhZ3JhbmNlJTIwc3ByYXl8ZW58MHx8fHwxNzcxMjM1MTAxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "fragrance spray"
+    },
+    {
+      "id": "perfume-3",
+      "description": "A collection of different perfumes",
+      "imageUrl": "https://images.unsplash.com/photo-1758225502621-9102d2856dc8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxmcmFncmFuY2UlMjBjb2xsZWN0aW9ufGVufDB8fHx8MTc3MTIzNTEwMXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "fragrance collection"
+    },
+    {
+      "id": "drink-1",
+      "description": "Glass of refreshing red zobo drink with hibiscus flower",
+      "imageUrl": "https://images.unsplash.com/photo-1563636680-28d36aeb83a4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxoaWJpc2N1cyUyMHRlYXxlbnwwfHx8fDE3NzExNzExOTR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "hibiscus tea"
+    },
+    {
+      "id": "drink-2",
+      "description": "Chilled bottle of homemade tigernut milk",
+      "imageUrl": "https://images.unsplash.com/photo-1621658536568-0e7bef759f14?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHx0aWdlcm51dCUyMG1pbGt8ZW58MHx8fHwxNzcxMjM1MTAxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "tigernut milk"
+    },
+    {
+      "id": "drink-3",
+      "description": "A glass of tigernut milk with tigernuts on the side",
+      "imageUrl": "https://images.unsplash.com/photo-1543508289-2a4346387248?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8bnV0JTIwZHJpbmt8ZW58MHx8fHwxNzcxMjM1MTAxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "nut drink"
+    },
+    {
+      "id": "essential-1",
+      "description": "Organic handmade soap bars",
+      "imageUrl": "https://images.unsplash.com/photo-1607006344380-b6775a0824a7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxoYW5kbWFkZSUyMHNvYXB8ZW58MHx8fHwxNzcxMjM1MTAxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "handmade soap"
+    },
+    {
+      "id": "essential-2",
+      "description": "A set of kitchen cleaning essentials",
+      "imageUrl": "https://images.unsplash.com/photo-1584820927498-cfe5211fd8bf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxjbGVhbmluZyUyMHN1cHBsaWVzfGVufDB8fHx8MTc3MTE2ODc5OHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "cleaning supplies"
+    },
+    {
+      "id": "essential-3",
+      "description": "Scented candle for home fragrance",
+      "imageUrl": "https://images.unsplash.com/photo-1612293905607-b003de9e54fb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxzY2VudGVkJTIwY2FuZGxlfGVufDB8fHx8MTc3MTE4ODU2Nnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "scented candle"
+    }
+  ]
 }
