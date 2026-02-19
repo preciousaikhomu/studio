@@ -2,8 +2,8 @@ import { Phone, Mail, Instagram, Twitter, Facebook } from 'lucide-react';
 import ContactForm from './contact-form';
 
 const contactDetails = [
-  { icon: <Phone className="h-6 w-6 text-primary" />, info: '+1 (234) 567-890', label: "Phone number" },
-  { icon: <Mail className="h-6 w-6 text-primary" />, info: 'hello@hameedahhaven.com', label: "Email address" },
+  { icon: <Phone className="h-6 w-6 text-primary" />, info: '+234 815 667 8708', label: "Phone number" },
+  { icon: <Mail className="h-6 w-6 text-primary" />, info: 'loladehakanmu@gmail.com', label: "Email address" },
 ];
 
 const socialLinks = [
